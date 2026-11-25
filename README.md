@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/em nawwaf adzka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="em nawwaf adzka" height="30" width="40" /></a>
 <a href="https://instagram.com/adzkanwwaf_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adzkanwwaf_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/em adzka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="em adzka" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@emadzka6917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emadzka6917" height="30" width="40" /></a>
 <a href="https://discord.com/users/1559031944186962042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1559031944186962042" height="30" width="40" /></a>
 </p>
 
